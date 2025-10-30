@@ -7,18 +7,6 @@ Welcome to the Small Office Network project using Cisco Packet Tracer. This proj
 - Computer Department. 
 This README file will guide you through the installation process, provide tutorials for learning Cisco Packet Tracer, and include steps for configuring end devices, switches, and routers.
 
-# Installation Instructions
-- **Download Cisco Packet Tracer:** Visit the official Cisco Networking Academy website to download Cisco Packet Tracer. You may need to create an account or log in to access the download link.
-
-- **Install Cisco Packet Tracer:** Follow the installation instructions provided with the downloaded file. Cisco Packet Tracer is available for various operating systems including Windows, macOS, and Linux.
-
-- **Open the Project File:** Download the Small Office Network project file and open it in Cisco Packet Tracer. You can find the project file attached to this repository.
-
-- **Explore the Network:** Once the project is opened, you can explore the Small Office Network. Familiarize yourself with the layout and components of each network.
-
-- **Tutorials:** If you're new to Cisco Packet Tracer, these tutorials will help you get started: [Static routing with Connecting 4 routers with explanation](https://youtu.be/rZw_b0wpQ00?si=a0IOwDnDuP12-De4)
-
-
 # Configuration Steps
 
 ### Configuring End Devices (PCs)
@@ -35,6 +23,3 @@ This README file will guide you through the installation process, provide tutori
 # Screenshots
 ![SS](./son.png)
 
-# Acknowledgements
-- Cisco Networking Academy for providing the tools and resources to make this project possible.
-- Open-source community and online forums for their continuous support and shared knowledge.
